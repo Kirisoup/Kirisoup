@@ -3,7 +3,9 @@
 
 &nbsp;
 
-# Cringe Chinese otaku who writes spaghetti codes.
+![](https://raw.githubusercontent.com/Kirisoup/kirisoup.github.io/main/assets/image/bannerTxt.png)
+
+# Cringe Chinese otaku who write spaghetti codes.
 ## 啥b二次元
 
 ---
