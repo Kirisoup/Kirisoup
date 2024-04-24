@@ -1,16 +1,14 @@
-### Hi there 👋
+> ### _如此，幻想的魔法便消失了。_
+> #### _Thus, the charm of fantasies is faded away._
 
-<!--
-**Kirisoup/Kirisoup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+&nbsp;
 
-Here are some ideas to get you started:
+# Cringe Chinese otaku who writes spaghetti codes.
+## 啥b二次元
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ☆ Soup's recent bangumi activities
+![](http://bgm.tv/chart/img/591612)
+
+## ☆ Cringe website can be found [here](https://kirisoup.github.io/home)
